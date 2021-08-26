@@ -1,0 +1,57 @@
+Welcome to "Why Open Source Software Matters."
+After watching this video, you will:
+Understand why open source software should matter to you as an individual contributor.
+Understand why open source software should matter to your company.
+Understand the current trends around open source software among developers and hiring
+managers.
+So as a developer, why should you care about OSS? Open access to the implementation of key
+technologies provides a fast learning opportunity to you as a developer.
+The open source community helps developers grow their knowledge through an ecosystem
+of support. This is especially important if you are  beginning your coding journey.
+Open Source gives you a chance to build an eminence in the community. Open source
+communities are the premier interactive hubs for developers where they can “demonstrate”
+their subject matter knowledge and skills.
+Most companies will adopt an open hybrid cloud approach. Open source skills are more
+transferrable across the developer community and ecosystem.
+As a candidate who understands Open Source, you have more options and opportunities as
+all major enterprises are using some kind of open source software.
+A newly published survey conducted in the fall of 2020 by O’Reilly Media, commissioned
+by IBM, suggests that instead of focusing on skills related to a specific vendor’s
+cloud, developers would be better off building skills around the open source technologies
+that underpin those clouds.
+Here are some highlights from the survey, to which over 3,400 developers and technology
+managers responded.
+Open source software (OSS) was rated equal to or better than proprietary software by
+94% of respondents.
+70% of respondents prefer cloud providers based on open source.
+65% of developers preferred skills related to the underlying open source technologies.
+Additionally, 65% of developers agree completely that contributions to open source projects
+impress potential employers and result in better professional opportunities.
+Similarly, the Linux Foundation’s 2020 Open Source Jobs Report pointed out that
+93% of hiring managers report difficulty finding sufficient talent with open source skills,
+up from 87% in 2018.
+The report also notes that hiring managers report knowledge of open cloud technologies
+has the most significant impact, with 70% being more likely to hire a pro with these
+skills, up from 66% in 2018.
+Open Source Software provides many benefits to the enterprise. The top three are:
+Speed of innovation through the community model. The code your company needs and are
+asking your developers to write has probably already been written and is available in
+an open source community.
+Potential cost savings in development, documentation, bug fixes and testing.
+Although these benefits exist, open source integration and maintenance is not free.
+Many start down the path to open source and then realize they need help.
+Enterprise companies want interoperability and freedom from vendor lock-in, as well as
+successfully supporting hybrid and multi-Cloud deployments.
+Here are some of the other benefits of adopting open source in your organization in the way
+of starting a project or contributing back to existing open source projects:
+The product team gets to interact directly with the end users;
+The community becomes aware of project roadmaps;
+You get to keep pace with competitors;
+Increase software security and reliability;
+Enhance business agility and time to market;
+Influence direction of technological development.
+In this video, you learned that:
+Open Source can help you advance your software development career.
+Open Source-based solutions are vital to the success of enterprise companies.
+Open source skills are in demand and developers strongly prefer open source to proprietary
+cloud platforms.
